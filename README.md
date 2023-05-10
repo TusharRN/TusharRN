@@ -4,7 +4,9 @@
 [![Linkedin: Tushar](https://img.shields.io/badge/-Tushar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAADOvNMABzzGkJm_rvSqeLrO9i5NgNMzQUD4&keywords=tushar%20nagpure&origin=RICH_QUERY_SUGGESTION&position=1&searchId=7edb2830-2bb7-4a9c-8789-2790fbe500a0&sid=%40~./)](https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAADOvNMABzzGkJm_rvSqeLrO9i5NgNMzQUD4&keywords=tushar%20nagpure&origin=RICH_QUERY_SUGGESTION&position=1&searchId=7edb2830-2bb7-4a9c-8789-2790fbe500a0&sid=%40~.)
 
 ## 👨🏻‍💻 &nbsp;About Me
+
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 🎓 &nbsp;I'm currently studying commputer science at Indian Institute of Information Technology, Bhopal.\
 💡 &nbsp;Some technologies I enjoy working with include ReactJS, JavaScript, Nodejs and mongodb.\
 🌱 &nbsp;I'm on track for learning more about fullstack and Algorithms.\
