@@ -6,24 +6,13 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-🎓 &nbsp;I'm currently studying Information Technology at Indian Institute of Information Technology, Bhopal.\
-💡 &nbsp;Some technologies I enjoy working with include ReactJS, JavaScript, Figma, Photoshop and illustrator. Currently exploring vueJS and coreIdraw.\
-🌱 &nbsp;I'm on track for learning more about backend, UI/UX designing, and Algorithms.\
-✉️ &nbsp;You can shoot me an email at ajsa02812@gmail.com! I'll try to respond as soon as I can.
 
 # My github stats
-| <a href="https://github.com/Ayush2966/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayush2966&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ayush's github stats" /></a> | <a href="https://github.com/Ayush2966/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush2966&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/TusharRN/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=TusharRN&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Tushar's github stats" /></a> | <a href="https://github.com/TusharRN/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharRN&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
-# My badges
-[![@ayush2966's Holopin board](https://holopin.me/ayush2966)](https://holopin.io/@ayush2966)
-### Profile Views
 
-![](https://count.getloli.com/get/@Ayush2966.github.readme)
-</br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</br>
 
 ## Watch my contributions get eaten by a snake 🐍
 ![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
