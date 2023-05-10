@@ -1,15 +1,16 @@
 # Hi, I’m Tushar Nagpure👋 
-[![Twitter Follow](https://img.shields.io/twitter/follow/AyushJaun?label=Follow)](https://twitter.com/AyushJaun)
-[![Instagram: Tushar](https://img.shields.io/badge/-Ayush-pink?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_.ayuxxhh._/)](https://www.instagram.com/_.ayuxxhh._/)
+
+[![Instagram: Tushar](https://img.shields.io/badge/-Tushar-pink?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_._tushar_n_._/)](https://www.instagram.com/_._tushar_n_._/)
 [![Linkedin: Tushar](https://img.shields.io/badge/-Ayush-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayush-jain-315b51228/)](https://www.linkedin.com/in/ayush-jain-315b51228/)
 
 ## 👨🏻‍💻 &nbsp;About Me
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 🎓 &nbsp;I'm currently studying commputer science at Indian Institute of Information Technology, Bhopal.\
 💡 &nbsp;Some technologies I enjoy working with include ReactJS, JavaScript, Nodejs and mongodb.\
 🌱 &nbsp;I'm on track for learning more about fullstack and Algorithms.\
 ✉️ &nbsp;You can shoot me an email at hritik2390@gmail.com ! I'll try to respond as soon as I can.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 
 
 # My github stats
