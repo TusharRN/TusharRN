@@ -1,7 +1,7 @@
 # Hi, I’m Tushar Nagpure👋 
 
 [![Instagram: Tushar](https://img.shields.io/badge/-Tushar-pink?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_._tushar_n_._/)](https://www.instagram.com/_._tushar_n_._/)
-[![Linkedin: Tushar](https://img.shields.io/badge/-Ayush-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayush-jain-315b51228/)](https://www.linkedin.com/in/ayush-jain-315b51228/)
+[![Linkedin: Tushar](https://img.shields.io/badge/-Tushar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAADOvNMABzzGkJm_rvSqeLrO9i5NgNMzQUD4&keywords=tushar%20nagpure&origin=RICH_QUERY_SUGGESTION&position=1&searchId=7edb2830-2bb7-4a9c-8789-2790fbe500a0&sid=%40~./)](https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAADOvNMABzzGkJm_rvSqeLrO9i5NgNMzQUD4&keywords=tushar%20nagpure&origin=RICH_QUERY_SUGGESTION&position=1&searchId=7edb2830-2bb7-4a9c-8789-2790fbe500a0&sid=%40~.)
 
 ## 👨🏻‍💻 &nbsp;About Me
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
